@@ -1,0 +1,15 @@
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Java/Tomcat generated files
+target/
+work/
+temp/
+logs/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
